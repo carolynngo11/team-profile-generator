@@ -23,7 +23,7 @@ Installed Node application and used Inquirer (npm).
 carolynngo11
 
 ## Tests
-npm test
+npm run test
 
 ## Questions
 Have any Questions? Contact me: https://github.com/carolynngo11
